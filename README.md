@@ -1,11 +1,12 @@
 ## Hiya, I'm Tania! Or @taniacryptid 👋
 
-> **Version**: 2.0  
+> **Version**: 3.0  
 > **Status**: Actively maintained by me + occasional keyboard contributions from Milk & Cheese
 
 ## 🎯 Overview
 
-Hi! I'm Senior Technical Community Manager at Block, for Block Open Source. This is my personal repo, which is my digital home on GitHub. Welcome! Make yourself comfy-cozy. 🫖
+Hi! I'm Senior Community Manager, Programs at Netlify, previously worked on projects like goose, Block Open Source, Newsweek, and more. 
+This is my personal repo, which is my digital home on GitHub. Welcome! Make yourself comfy-cozy. 🫖
 
 ## 🤙🏽 Core Features
 
