@@ -11,9 +11,8 @@ This is my personal repo, which is my digital home on GitHub. Welcome! Make your
 ## 🤙🏽 Core Features
 
 ### Primary Functions:
-- **Community**: Specializes in nurturing and growing open source communities
-- **Creating fun (and hopefully funny) content**: Writes about community, tech, AI, and probably most definitely Godzilla
-- **Let's get goose'd!**: Daily contributor to [goose](https://github.com/block/goose) (with help from goose itself - very meta)
+- **Community**: Specializes in building and growing open source communities
+- **Creating fun (and hopefully funny) content**: Writes about community, tech, agents, and probably most definitely Godzilla
 - **Like a handy power cable**: Loves helping people connect with each other
 
 ### Technical Specs:
@@ -23,6 +22,7 @@ This is my personal repo, which is my digital home on GitHub. Welcome! Make your
   - Reptiles: Chives (leopard gecko), Godzilla (crested gecko), Mashed Potato (micro gecko), Cheeto (house snake), Butter (rosy boa)
 
 ## ✍️ Recent Blogs
+- [Build with Netlify came to Atlanta](https://www.netlify.com/blog/build-with-netlify-came-to-atlanta/)
 - [MCP Explained for Non-Developers](https://dev.to/blockopensource/mcp-explained-for-non-developers-2he6) 🆕
 - [Let A Team of AI Agents Do It For You](https://dev.to/blockopensource/let-a-team-of-ai-agents-do-it-for-you-268a)
 - [AI Agents Are Like Fish Tanks](https://dev.to/taniacryptid/ai-agents-are-like-fish-tanks-37d4)
