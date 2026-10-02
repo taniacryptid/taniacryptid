@@ -17,8 +17,7 @@ This is my personal repo, which is my digital home on GitHub. Welcome! Make your
 - **Like a handy power cable**: Loves helping people connect with each other
 
 ### Technical Specs:
-- **Pronouns**: she/her/hers
-- **Power Source**: Chai (required for optimal performance)
+- **Pronouns**: she/her
 - **Companion Units**: 
   - Cats: Milk & Cheese (after the comic book)
   - Reptiles: Chives (leopard gecko), Godzilla (crested gecko), Mashed Potato (micro gecko), Cheeto (house snake), Butter (rosy boa)
@@ -31,21 +30,22 @@ This is my personal repo, which is my digital home on GitHub. Welcome! Make your
 
 ## 🛠️ Current Projects
 
-- 🪿 Contributing to [goose](https://github.com/block/goose)
-- 📝 Writing about tech and AI for non-developers
-- 🎬 Creating content (for fun and work!)
-- 📊 **[Goose Community Reports](https://taniacryptid.github.io/taniacryptid/goose-reports/)** - Interactive dashboards tracking goose open source growth
+- [🐟 The Filter Feed](https://thefilterfeed.netlify.app): my personal fishkeeping blog, hosted on Netlify.
+- [🐈‍⬛ Taniacryptid](https://taniacryptid.netlify.app): my personal portfolio and website, currently in progress. The old-school, Neocities website lives [here](https://taniacryptid.com).
+-  🪿 Community maintainer to [goose](https://github.com/block/goose); Check out my interactive community dashboards for goose 📊 **[here](https://taniacryptid.github.io/taniacryptid/goose-reports/)**
+- 📝 Writing about fishkeeping, retro games, and guides for non-developers and devs alike in tech
+- 🎬 Creating content about my niche hobbies
 
 ## 🐱 Dependencies
 
 This repo would not be possible without:
-- 🫖 Chai (critical dependency)
+- 🫖 Sweet treats
 - 🐱 Milk & Cheese (quality assurance team)
-- 🦎 Various dairy kids of the lizard and snake variety
+- 🦎 Chives, Butter, Cheddar, Dr. Pepper, and Cosmic Brownie (my reptile famo)
 
 ---
 
-*Last updated: February 2026*   
+*Last updated: October 2026*   
 *Approved by: Milk & Cheese (via keyboard walking)*
 
 <!--
